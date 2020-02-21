@@ -1,0 +1,1 @@
+Change Site Address (URL) in Settings to remove trailing /wp
